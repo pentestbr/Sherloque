@@ -1,0 +1,35 @@
+{
+        "Target":{ 
+            "First name": "Jean",       
+            "Last name": "Dupont",       
+			"Nickname": "Nickname",
+            "Date of birth (DDMMYYYY)": "01011900",     
+            "Place of birth": "Paris",  
+            "Current living place": "Toulouse",         
+            "Current department number": "31",          
+            "Security awareness (1-3)": "1"
+        },       
+        "Holidays":{ 
+            "Memorable journey - City": "Grenoble",
+            "Memorable journey - Department number": "38",
+            "Usual place - City": "Marseille", 
+            "Usual place - Department number": "13"     
+        },       
+        "Areas of interest":{ 
+            "Passion": "Hacking",    
+            "Favorite sport": "Rugby",         
+            "Supported team": "StadeToulousain",    
+            "Idol": "Madonna"        
+        },
+        "Company":{
+            "Name": "ACME",
+            "Arrival date (DDMMYYYY)": "01121920" 
+        },
+        "Family":{ 
+            "Partner's first name": "Jane",
+            "Partner's date of birth (DDMMYYYY)": "02021905",
+            "Kid's name": "Bernard",      
+            "Kid's date of birth (DDMMYYYY)": "03031933",
+            "Pet's name": "Rantanplan" 
+        }
+}
